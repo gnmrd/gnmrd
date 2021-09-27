@@ -33,7 +33,7 @@ I am **Ganmarie Duque**, an engineering student residing in the Philippines!
 ## 📞 Connect With Me
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230A0A0A.svg?&color=blue&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ganmaried/)
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/engrcodes)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ganmarie_)
 [<img height="30" src="https://img.shields.io/badge/facebook-%230A0A0A.svg?&color=blue&style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/ganmarie.duque.7)
 
 
