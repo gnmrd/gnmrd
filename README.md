@@ -1,5 +1,4 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-[<img src="https://img.shields.io/github/followers/gnmrd?label=Follow&style=social">](https://github.com/gnmrd) <br>
 I am **Ganmarie Duque**, an engineering student residing in the Philippines!
 - Driven with a passion for venturing *Web Development, Machine Learning,* and *Data Science*. 
 - I build open-source minor projects that you can find in my repositories here on GitHub.
